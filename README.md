@@ -51,3 +51,13 @@ This project is open-source under the **MIT License**. Feel free to use and modi
 
 Got ideas for improvement? **Fork this repository, enhance the tool, and submit a pull request!** We welcome contributions from the community. 🛠️✨
 
+## 🤝 Screenshots
+User interface
+
+![Screenshot Description](screenshots/Screenshot1.png)
+
+Input CSV
+![Screenshot Description](screenshots/Screenshot2.png)
+
+Cleaned CSV
+![Screenshot Description](screenshots/Screenshot3.png)
